@@ -18,6 +18,7 @@
 		5B5E68AA2A07F3A400162F7F /* DownloadsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B5E68A92A07F3A400162F7F /* DownloadsViewController.swift */; };
 		5B5E68B12A08301C00162F7F /* CollectionViewTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B5E68B02A08301C00162F7F /* CollectionViewTableViewCell.swift */; };
 		5B5E68B32A08376700162F7F /* HeroHeaderUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B5E68B22A08376700162F7F /* HeroHeaderUIView.swift */; };
+		5B5E68B52A085D2300162F7F /* APICaller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B5E68B42A085D2300162F7F /* APICaller.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		5B5E68A92A07F3A400162F7F /* DownloadsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadsViewController.swift; sourceTree = "<group>"; };
 		5B5E68B02A08301C00162F7F /* CollectionViewTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewTableViewCell.swift; sourceTree = "<group>"; };
 		5B5E68B22A08376700162F7F /* HeroHeaderUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroHeaderUIView.swift; sourceTree = "<group>"; };
+		5B5E68B42A085D2300162F7F /* APICaller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APICaller.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -119,6 +121,7 @@
 		5B5E68AE2A0818A700162F7F /* Managers */ = {
 			isa = PBXGroup;
 			children = (
+				5B5E68B42A085D2300162F7F /* APICaller.swift */,
 			);
 			path = Managers;
 			sourceTree = "<group>";
@@ -203,6 +206,7 @@
 				5B5E68A82A07F38100162F7F /* SearchViewController.swift in Sources */,
 				5B5E68932A07EF7200162F7F /* MainTabBarViewController.swift in Sources */,
 				5B5E68B12A08301C00162F7F /* CollectionViewTableViewCell.swift in Sources */,
+				5B5E68B52A085D2300162F7F /* APICaller.swift in Sources */,
 				5B5E68B32A08376700162F7F /* HeroHeaderUIView.swift in Sources */,
 				5B5E68AA2A07F3A400162F7F /* DownloadsViewController.swift in Sources */,
 				5B5E688F2A07EF7200162F7F /* AppDelegate.swift in Sources */,
