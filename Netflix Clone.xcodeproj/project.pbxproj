@@ -19,6 +19,7 @@
 		5B5E68B12A08301C00162F7F /* CollectionViewTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B5E68B02A08301C00162F7F /* CollectionViewTableViewCell.swift */; };
 		5B5E68B32A08376700162F7F /* HeroHeaderUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B5E68B22A08376700162F7F /* HeroHeaderUIView.swift */; };
 		5B5E68B52A085D2300162F7F /* APICaller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B5E68B42A085D2300162F7F /* APICaller.swift */; };
+		5B5E68B72A0864EC00162F7F /* Movie.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B5E68B62A0864EC00162F7F /* Movie.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -36,6 +37,7 @@
 		5B5E68B02A08301C00162F7F /* CollectionViewTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewTableViewCell.swift; sourceTree = "<group>"; };
 		5B5E68B22A08376700162F7F /* HeroHeaderUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroHeaderUIView.swift; sourceTree = "<group>"; };
 		5B5E68B42A085D2300162F7F /* APICaller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = APICaller.swift; sourceTree = "<group>"; };
+		5B5E68B62A0864EC00162F7F /* Movie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Movie.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -114,6 +116,7 @@
 		5B5E68AD2A08147700162F7F /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				5B5E68B62A0864EC00162F7F /* Movie.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -212,6 +215,7 @@
 				5B5E688F2A07EF7200162F7F /* AppDelegate.swift in Sources */,
 				5B5E68912A07EF7200162F7F /* SceneDelegate.swift in Sources */,
 				5B5E68A62A07F35700162F7F /* UpcomingViewController.swift in Sources */,
+				5B5E68B72A0864EC00162F7F /* Movie.swift in Sources */,
 				5B5E68A42A07F30D00162F7F /* HomeViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
